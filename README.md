@@ -4,6 +4,16 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
+## Run Online (No Installation Required)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/shagufakhan/diabetes-prediction-modelling-with-ensemble-learni)
+
+**Interactive Kaggle Notebook:**
+https://www.kaggle.com/code/shagufakhan/diabetes-prediction-modelling-with-ensemble-learni
+
+Click the badge above to run the complete pipeline
+interactively on Kaggle without any local setup.
+
 ## Overview
 A complete machine learning pipeline that predicts diabetes risk using the 
 Pima Indians Diabetes Dataset. Built with XGBoost ensemble learning, 
