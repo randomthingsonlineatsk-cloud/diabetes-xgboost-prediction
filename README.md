@@ -8,7 +8,8 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/code/shagufakhan/diabetes-prediction-modelling-with-ensemble-learni)
 
-**Interactive Kaggle Notebook:**
+Interactive Kaggle Notebook
+**Diabetes Prediction Modelling:**
 https://www.kaggle.com/code/shagufakhan/diabetes-prediction-modelling-with-ensemble-learni
 
 Click the badge above to run the complete pipeline
